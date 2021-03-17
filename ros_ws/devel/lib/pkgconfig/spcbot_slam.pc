@@ -1,0 +1,8 @@
+prefix=/home/joseph/ros_ws/devel
+
+Name: spcbot_slam
+Description: Description of spcbot_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
